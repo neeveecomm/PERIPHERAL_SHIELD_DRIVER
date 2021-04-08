@@ -1,0 +1,12 @@
+fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+fsl_port.h:256:20:PORT_SetPinConfig	32	static
+TCA8418_DRIVER_I2C.c:74:6:i2c_write	24	static
+TCA8418_DRIVER_I2C.c:104:9:i2c_read	24	static
+TCA8418_DRIVER_I2C.c:163:13:i2c_release_bus_delay	16	static
+TCA8418_DRIVER_I2C.c:172:6:BOARD_I2C_ReleaseBus	16	static
+TCA8418_DRIVER_I2C.c:236:6:keylock	8	static
+TCA8418_DRIVER_I2C.c:254:6:GPIO	8	static
+TCA8418_DRIVER_I2C.c:280:6:keypress	32	static
+TCA8418_DRIVER_I2C.c:392:6:keyrelease	32	static
+TCA8418_DRIVER_I2C.c:507:5:main	8	static
