@@ -1,0 +1,8 @@
+fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+fsl_port.h:256:20:PORT_SetPinConfig	32	static
+MMA8652.c:83:6:BOARD_I2C_ReleaseBus	16	static
+MMA8652.c:133:7:i2c_release_bus_delay	16	static
+MMA8652.c:141:7:i2c_write	24	static
+MMA8652.c:169:10:i2c_read	24	static
+MMA8652.c:222:5:main	24	static
