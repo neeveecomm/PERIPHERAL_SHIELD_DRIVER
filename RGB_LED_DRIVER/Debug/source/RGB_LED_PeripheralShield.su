@@ -1,0 +1,6 @@
+RGB_LED_PeripheralShield.c:75:6:RED_ON	8	static
+RGB_LED_PeripheralShield.c:84:6:GREEN_ON	8	static
+RGB_LED_PeripheralShield.c:92:6:BLUE_ON	8	static
+RGB_LED_PeripheralShield.c:100:6:LED_OFF	8	static
+RGB_LED_PeripheralShield.c:108:6:RGB_ON	24	static
+RGB_LED_PeripheralShield.c:144:5:main	8	static
